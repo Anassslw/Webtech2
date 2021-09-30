@@ -1,0 +1,13 @@
+body {
+}
+
+.okno {
+    background-color: aqua;
+    width: 100%;
+    border: 1px solid forestgreen;
+    height: 250px;
+}
+img {
+    height: 250px;
+    float:right;
+}
